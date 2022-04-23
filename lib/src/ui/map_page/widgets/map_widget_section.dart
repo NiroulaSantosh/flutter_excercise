@@ -66,6 +66,7 @@ class _MapWidgetSectionState extends State<MapWidgetSection> {
             circleRadius: 8.0,
             circleColor: '#006992',
             circleOpacity: 0.8,
+            circleBlur: 10,
             geometry: latLng,
             draggable: true,
           ),
