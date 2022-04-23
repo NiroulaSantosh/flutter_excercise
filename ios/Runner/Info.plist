@@ -24,6 +24,11 @@
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>MBXAccessToken</key>
+	<string>sk.eyJ1Ijoibi1zYW4iLCJhIjoiY2wyYjl3dzk5MDJkYzNmbnUwemc3aXNzNyJ9.DTptpYv5PaYjWv7kS9gQqQ</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>The app need your location to use the maps</string>
+
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
